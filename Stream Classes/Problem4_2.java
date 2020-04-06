@@ -18,10 +18,12 @@ public class Problem4_2 {
 		// create instance of Random class 
         Random rand = new Random(100); 
         int randNumber;
+		//Create file to store random numbers
         FileWriter fileWriter = new FileWriter("RandomNumbers.txt");
         for(int i=0;i<100;i++) {
         	// Generate random integers in range 0 to 999
             randNumber = rand.nextInt(1000);
+		//Write the random number genereted into the file, "\t" is added to give space between numbers
             fileWriter.write(randNumber+"\t"+"");
                       
         }
