@@ -4,9 +4,9 @@
  * 
  */
  /* University Question December 2019
- * Write a Java program to create a new file named ‘MyFile.txt’ 
- * and write the statement “This is the University Exam for OODP. 
- * This a program to illustrate the use of files.” into 
+ * Write a Java program to create a new file named â€˜MyFile.txtâ€™ 
+ * and write the statement â€œThis is the University Exam for OODP. 
+ * This a program to illustrate the use of files.â€ into 
  * the file with each sentence in the statement representing a 
  * new line in the file.
  * 
